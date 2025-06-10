@@ -1,0 +1,4 @@
+{
+  "name": "Sprint Poker Planner",
+  "description": "A web application to facilitate sprint planning using interactive poker voting. Users can add tasks, vote on them, reveal votes, and export a session summary."
+}
